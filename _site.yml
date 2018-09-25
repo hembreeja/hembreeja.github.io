@@ -5,5 +5,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "More About Me"
       href: about.html
+    - text: "Resume"
+      href: resume.html
