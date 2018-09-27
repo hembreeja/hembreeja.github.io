@@ -14,3 +14,8 @@ navbar:
     - text: ""
       icon: fa-github fa-lg
       href: https://github.com/hembreeja/hembreeja.github.io
+
+output:
+  html_document:
+    theme: journal
+    highlight: espresso
