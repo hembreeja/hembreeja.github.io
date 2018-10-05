@@ -1,0 +1,13 @@
+---
+title: Past Projects
+---
+
+![Book of Proofs for Series and Sequences](https://mathr.math.appstate.edu/s/8ba723dc65fc1a6ac6527/files/Repositories/hembreeja.github.io/files/Calculus%20Test%20Series%20and%20Sequences.pdf)
+
+[Ratio Test](https://youtu.be/av947KCWf2U)  
+[Direct Comparison Test](https://youtu.be/0tXxFPHzFFI)  
+[Alternating Series Test](https://youtu.be/91qVGeyTl44)  
+[Limit Comparison Test](https://youtu.be/AtbZZiSLemQ)  
+[Integral Test](https://youtu.be/xRyXz_UZ14Q)  
+[Geometric Series Test](https://youtu.be/KNrEAJeRIdo)  
+[P-Series Test](https://youtu.be/4WChwIGKdaA)  
