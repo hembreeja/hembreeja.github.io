@@ -3,7 +3,7 @@ title: Past Projects
 ---
 
 <center>
-![Book of Proofs for Series and Sequences](https://mathr.math.appstate.edu/s/8ba723dc65fc1a6ac6527/files/Repositories/hembreeja.github.io/Calculus%20_Test_Series_and_Sequences.pdf){width=50%, height=50%}
+![Book of Proofs for Series and Sequences](https://mathr.math.appstate.edu/s/8ba723dc65fc1a6ac6527/files/Repositories/hembreeja.github.io/Calculus%20_Test_Series_and_Sequences.pdf){width="100%" height="700px"}
 </center>
 
 [Ratio Test](https://youtu.be/av947KCWf2U)  
